@@ -1,0 +1,411 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<rss version='2.0' xml:base='/blog.rss' xmlns:dc='http://purl.org/dc/elements/1.1/'>
+<channel>
+  <title>Blog</title>
+  <link>/news-spatialdev</link>
+  <description>Occasional Blog Posts</description>
+  <language>en</language>
+  <item>
+  <title>Cinco De Mayo</title>
+  <link>/news-spatialdev/blog/2014/05/08/cinco-de-mayo/</link>
+  <description>&lt;h2&gt;Party at Marador&lt;/h2&gt;
+
+
+
+
+&lt;p&gt;Cinco de Mayo with part of the SpatialDev crew&lt;/p&gt;
+
+</description>
+  <pubDate>2014-05-08T00:00:00-07:00</pubDate>
+  <dc:creator>SITE NAME</dc:creator>
+  <guid isPermaLink="true">/news-spatialdev/blog/2014/05/08/cinco-de-mayo/</guid>
+</item>
+<item>
+  <title>Test Post Your Name</title>
+  <link>/news-spatialdev/blog/2014/04/29/test-post-your-name/</link>
+  <description>&lt;p&gt;&#39;Your Name&#39; A New Post&lt;/p&gt;
+
+
+
+
+&lt;p&gt;This is dope, using Pros.io, jekyll, and GitHub Pages to write a new post&lt;/p&gt;
+
+</description>
+  <pubDate>2014-04-29T00:00:00-07:00</pubDate>
+  <dc:creator>SITE NAME</dc:creator>
+  <guid isPermaLink="true">/news-spatialdev/blog/2014/04/29/test-post-your-name/</guid>
+</item>
+<item>
+  <title>Metal Cats</title>
+  <link>/news-spatialdev/blog/2014/04/25/metal-cats/</link>
+  <description>&lt;h2&gt;Hardcore Metal Musicians Pose With Their Cats&lt;/h2&gt;
+
+
+
+
+&lt;p&gt;Musicians and fans of the metal music community often get a bad rap because of their dark, gruff and tattooed looks. The adorable set of photos published in Metal Cats by Alexandra Crockett sets out to change all that by getting accomplished metal musicians to pose with their feline friends and show off their softer sides.&lt;/p&gt;
+
+
+
+
+&lt;p&gt;The people posing in these photos represent bands with names that are anything but cuddly – Napalm Death, Cattle Decapitation, Murder Construct, Skeletonwitch and Lightning Swords Of Death. But despite these fearsome band names and their black leather, spikes, tattoos and muscles, it’s clear that they share a close relationship with their loveable animals just like the rest of us.&lt;/p&gt;
+
+
+
+
+&lt;p&gt;What’s even better is that these musicians, most of whom have thousands of supporters worldwide, aren’t just putting their faces behind the cause. A series of benefit concerts will be held along the U.S. West Coast, and the proceeds from these concerts, along with a portion of the book’s proceeds, will go to no-kill animal shelters at each of the four cities&lt;/p&gt;
+
+</description>
+  <pubDate>2014-04-25T00:00:00-07:00</pubDate>
+  <dc:creator>SITE NAME</dc:creator>
+  <guid isPermaLink="true">/news-spatialdev/blog/2014/04/25/metal-cats/</guid>
+</item>
+<item>
+  <title>Jubal&#39;s Cat video</title>
+  <link>/news-spatialdev/blog/2014/04/24/youtube-id-video/</link>
+  <description>&lt;h2&gt;Cat&lt;/h2&gt;
+
+</description>
+  <pubDate>2014-04-24T00:00:00-07:00</pubDate>
+  <dc:creator>SITE NAME</dc:creator>
+  <guid isPermaLink="true">/news-spatialdev/blog/2014/04/24/youtube-id-video/</guid>
+</item>
+<item>
+  <title>Vimeo  ID</title>
+  <link>/news-spatialdev/blog/2014/04/24/vimeo-and-shareslide-ids/</link>
+  <description>&lt;h2&gt;Vimeo ID&lt;/h2&gt;
+
+</description>
+  <pubDate>2014-04-24T00:00:00-07:00</pubDate>
+  <dc:creator>SITE NAME</dc:creator>
+  <guid isPermaLink="true">/news-spatialdev/blog/2014/04/24/vimeo-and-shareslide-ids/</guid>
+</item>
+<item>
+  <title>Code snippet</title>
+  <link>/news-spatialdev/blog/2014/04/15/code-snippet/</link>
+  <description>&lt;h2&gt;Code Snippet&lt;/h2&gt;
+
+
+
+
+&lt;pre&gt;&lt;code class=&quot;python&quot;&gt;s = &quot;Python syntax highlighting&quot;
+print s
+&lt;/code&gt;&lt;/pre&gt;
+
+
+
+
+&lt;pre&gt;&lt;code class=&quot;javascript&quot;&gt;var s = &quot;JavaScript syntax highlighting&quot;;
+alert(s);
+&lt;/code&gt;&lt;/pre&gt;
+
+
+
+
+&lt;pre&gt;&lt;code&gt;No language indicated, so no syntax highlighting. 
+But let&#39;s throw in a &amp;lt;b&amp;gt;tag&amp;lt;/b&amp;gt;.
+&lt;/code&gt;&lt;/pre&gt;
+
+</description>
+  <pubDate>2014-04-15T00:00:00-07:00</pubDate>
+  <dc:creator>SITE NAME</dc:creator>
+  <guid isPermaLink="true">/news-spatialdev/blog/2014/04/15/code-snippet/</guid>
+</item>
+<item>
+  <title>Allow users to freely tags</title>
+  <link>/news-spatialdev/blog/2014/04/14/allow-users-to-freely-tags/</link>
+  <description>&lt;h2&gt;Allowing Users to freely tag with their own tag names&lt;/h2&gt;
+
+</description>
+  <pubDate>2014-04-14T00:00:00-07:00</pubDate>
+  <dc:creator>SITE NAME</dc:creator>
+  <guid isPermaLink="true">/news-spatialdev/blog/2014/04/14/allow-users-to-freely-tags/</guid>
+</item>
+<item>
+  <title>Arab Spatial 2.0</title>
+  <link>/news-spatialdev/blog/2014/04/11/arab-spatial-2-0/</link>
+  <description>&lt;h2&gt;Arab Spatial 2.0&lt;/h2&gt;
+
+
+
+
+&lt;p&gt;We&#39;re presenting along side @IFPRI at the Arab Spatial 2.0 launch event at IFAD in Rome.&lt;/p&gt;
+
+</description>
+  <pubDate>2014-04-11T00:00:00-07:00</pubDate>
+  <dc:creator>SITE NAME</dc:creator>
+  <guid isPermaLink="true">/news-spatialdev/blog/2014/04/11/arab-spatial-2-0/</guid>
+</item>
+<item>
+  <title>Spatial Dev First Blog</title>
+  <link>/news-spatialdev/blog/2014/04/09/spatial-dev-first-blog/</link>
+  <description>&lt;h2&gt;Spatial Development&lt;/h2&gt;
+
+
+
+
+&lt;p&gt;We’re SpatialDev—an award-winning data visualization team. We use cool technologies to represent complex information in ways that make sense— make important things more visible - help reinforce values that can make a difference – and move things forward.&lt;/p&gt;
+
+
+
+
+&lt;p&gt;Simple. Spatial. Sustainable.&lt;/p&gt;
+
+</description>
+  <pubDate>2014-04-09T00:00:00-07:00</pubDate>
+  <dc:creator>SITE NAME</dc:creator>
+  <guid isPermaLink="true">/news-spatialdev/blog/2014/04/09/spatial-dev-first-blog/</guid>
+</item>
+<item>
+  <title>Open Aid Map Live</title>
+  <link>/news-spatialdev/blog/2014/04/09/open-aid-map-live/</link>
+  <description>&lt;h2&gt;Open Aid Map quietly goes live&lt;/h2&gt;
+
+
+
+
+&lt;p&gt;The new Open Aid Map quietly goes live over night. We&#39;re turning Aid Data on its head by enabling countries to visualize local projects and report according to the International Aid Transparency Initiative.&lt;/p&gt;
+
+
+
+
+&lt;p&gt;&lt;a href=&quot;http://www.openaidmap.org/&quot; title=&quot;http://www.openaidmap.org/&quot;&gt;http://www.openaidmap.org/&lt;/a&gt;&lt;/p&gt;
+
+</description>
+  <pubDate>2014-04-09T00:00:00-07:00</pubDate>
+  <dc:creator>SITE NAME</dc:creator>
+  <guid isPermaLink="true">/news-spatialdev/blog/2014/04/09/open-aid-map-live/</guid>
+</item>
+<item>
+  <title>Mary Gates Research Scholarship</title>
+  <link>/news-spatialdev/blog/2014/04/02/mary-gates-research-scholarship/</link>
+  <description>&lt;h2&gt;Phoebe Merritt&lt;/h2&gt;
+
+
+
+
+&lt;p&gt;Congrats to Phoebe Merritt for her Mary Gates research scholarship!&lt;/p&gt;
+
+
+
+
+&lt;p&gt;&lt;a href=&quot;http://depts.washington.edu/geog/2014/04/congratulations-to-our-mary-gates-scholars/&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+</description>
+  <pubDate>2014-04-02T00:00:00-07:00</pubDate>
+  <dc:creator>SITE NAME</dc:creator>
+  <guid isPermaLink="true">/news-spatialdev/blog/2014/04/02/mary-gates-research-scholarship/</guid>
+</item>
+<item>
+  <title>Gates Foundation - FSP</title>
+  <link>/news-spatialdev/blog/2014/03/14/gates-foundation-fsp/</link>
+  <description>&lt;h2&gt;Financial Services to the Poor&lt;/h2&gt;
+
+
+
+
+&lt;p&gt;Our work in mapping financial access and mobile money in Kenya with the Gates Foundation is covered in the local media today.&lt;/p&gt;
+
+
+
+
+&lt;p&gt;&lt;a href=&quot;http://www.nation.co.ke/business/Kenya-tops-in-access-to-banks-says-CBK-study/-/996/2242960/-/d0htqs/-/index.html&quot;&gt;Kenya tops in access to banks, says CBK study&lt;/a&gt;&lt;/p&gt;
+
+</description>
+  <pubDate>2014-03-14T00:00:00-07:00</pubDate>
+  <dc:creator>SITE NAME</dc:creator>
+  <guid isPermaLink="true">/news-spatialdev/blog/2014/03/14/gates-foundation-fsp/</guid>
+</item>
+<item>
+  <title>Nairobi FSP Team</title>
+  <link>/news-spatialdev/blog/2014/03/13/nairobi-fsp-team/</link>
+  <description>&lt;h2&gt;FSP Team&lt;/h2&gt;
+
+
+
+
+&lt;p&gt;Dinner with Steve from ILRI in Nairobi&lt;/p&gt;
+
+</description>
+  <pubDate>2014-03-13T00:00:00-07:00</pubDate>
+  <dc:creator>SITE NAME</dc:creator>
+  <guid isPermaLink="true">/news-spatialdev/blog/2014/03/13/nairobi-fsp-team/</guid>
+</item>
+<item>
+  <title>WA Invasive - Android App</title>
+  <link>/news-spatialdev/blog/2014/02/28/wa-invasive-android-app/</link>
+  <description>&lt;h2&gt;WA Invasives&lt;/h2&gt;
+
+
+
+
+&lt;p&gt;DESCRIPTION
+Invasive species are non-native plants, animals, and insects that harm native species, ecosystems, native people’s cultural resources, and industries such as agriculture, forestry, and hydropower. Expansions of global trade and increases in human mobility have resulted in unprecedented invasion by invasive species. These species threaten biodiversity, habitat quality, and ecosystem function and are believed to have contributed to the decline of 42% of the endangered and threatened species in the United States. In Washington, the costs of dealing with invasive species are in the millions of dollars each year.
+Managing invasive species here in Washington State is complex due to the number and types of pathways through which species are introduced. A number of local, state and federal agencies and organizations work to prevent the introduction and spread of invasive species, physically control or eradicate them, monitor their distribution, and understand their characteristics. Now you can help contribute to identifying and reporting invasive species before they become a bigger problem. The goal of this mobile app is to make species identification easier and help improve detection and reporting of harmful invasive species statewide
+You can submit invasive species sighting reports directly with your mobile device where they occur. These sighting reports are submitted to Washington Invasive Species Council (WISC) staff and technical experts throughout the state to review and approve sighting reports. Sightings that are approved will be viewable directly through the app’s mapping tool. You can also learn more about priority invasive species in Washington with easy-to-understand descriptions and images. This mobile app is part of an integrated invasive species reporting and outreach campaign for WISC that also includes a website with an online reporting form.
+FEATURES
+- GPS and Photo Tools Easy species reporting uses your GPS to capture your current location and an image of your sightings.
+- Offline Caching Report sightings that can be saved on your phone for uploading when you have network connectivity.
+- Easy-to-Learn Species Info Images and information on Washington Invasive Species Council’s priority plant and animal species.
+- View other sighting reports Dynamic distribution maps showing confirmed sightings of all species captured through the app from your current location.
+ABOUT THE WASHINGTON INVASIVE SPECIES COUNCIL
+Established by the Legislature in 2006, the Council provides policy-level direction, planning, and coordination for combating harmful invasive species throughout the state and preventing the introduction of others that may be potentially harmful. More information is available at www.invasivespecies.wa.gov.&lt;/p&gt;
+
+
+
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=gov.wisc.wainvasives&amp;amp;hl=en&quot; title=&quot;Google Play&quot;&gt;https://play.google.com/store/apps/details?id=gov.wisc.wainvasives&amp;amp;hl=en&lt;/a&gt;&lt;/p&gt;
+
+</description>
+  <pubDate>2014-02-28T00:00:00-08:00</pubDate>
+  <dc:creator>SITE NAME</dc:creator>
+  <guid isPermaLink="true">/news-spatialdev/blog/2014/02/28/wa-invasive-android-app/</guid>
+</item>
+<item>
+  <title>SpatialDev T-Shirts</title>
+  <link>/news-spatialdev/blog/2014/02/25/spatialdev-t-shirts/</link>
+  <description>&lt;h2&gt;New SpatialDev T-Shirt&lt;/h2&gt;
+
+
+
+
+&lt;p&gt;New Spatial Development International t-shirts are in. Here is one of two new styles. Mythical beasts building apps &amp;amp; maps. Thanks to designer extraordinaire Simon Legaspi! — with Heidi Johnson and Naomi Menahem.&lt;/p&gt;
+
+</description>
+  <pubDate>2014-02-25T00:00:00-08:00</pubDate>
+  <dc:creator>SITE NAME</dc:creator>
+  <guid isPermaLink="true">/news-spatialdev/blog/2014/02/25/spatialdev-t-shirts/</guid>
+</item>
+<item>
+  <title>Seahawks Office</title>
+  <link>/news-spatialdev/blog/2014/01/30/seahawks-office/</link>
+  <description>&lt;h2&gt;GO SEAHAWKS&lt;/h2&gt;
+
+
+
+
+&lt;p&gt;Spatial Development International is in beast mode. Go Hawks!!!&lt;/p&gt;
+
+</description>
+  <pubDate>2014-01-30T00:00:00-08:00</pubDate>
+  <dc:creator>SITE NAME</dc:creator>
+  <guid isPermaLink="true">/news-spatialdev/blog/2014/01/30/seahawks-office/</guid>
+</item>
+<item>
+  <title>IFAD Launch Even for Arab Spatial</title>
+  <link>/news-spatialdev/blog/2014/01/16/ifad-launch-even-for-arab-spatial/</link>
+  <description>&lt;h2&gt;At the IFAD Launch Event for ArabSpatial&lt;/h2&gt;
+
+
+
+
+&lt;p&gt;Daniel presenting at the IFAD Launch Event for ArabSpatial.&lt;/p&gt;
+
+
+
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/yifeiliu/status/423765434773819392/photo/1&quot;&gt;https://twitter.com/yifeiliu/status/423765434773819392/photo/1&lt;/a&gt;&lt;/p&gt;
+
+</description>
+  <pubDate>2014-01-16T00:00:00-08:00</pubDate>
+  <dc:creator>SITE NAME</dc:creator>
+  <guid isPermaLink="true">/news-spatialdev/blog/2014/01/16/ifad-launch-even-for-arab-spatial/</guid>
+</item>
+<item>
+  <title>Arab Spatial</title>
+  <link>/news-spatialdev/blog/2014/01/14/arab-spatial/</link>
+  <description>&lt;h3&gt;Introducing Arab Spatail&lt;/h3&gt;
+
+
+
+
+&lt;p&gt;Heading to Rome today with partners at IFPRI to present the next version of ArabSpatial at the International Fund for Agricultural Research (IFAD).&lt;/p&gt;
+
+
+
+
+&lt;p&gt;&lt;a href=&quot;http://www.ifpri.org/blog/introducing-arab-spatial-online-interactive-atlas-arab-world&quot; title=&quot;Arab Spatial&quot;&gt;http://www.ifpri.org/blog/introducing-arab-spatial-online-interactive-atlas-arab-world&lt;/a&gt;&lt;/p&gt;
+
+</description>
+  <pubDate>2014-01-14T00:00:00-08:00</pubDate>
+  <dc:creator>SITE NAME</dc:creator>
+  <guid isPermaLink="true">/news-spatialdev/blog/2014/01/14/arab-spatial/</guid>
+</item>
+<item>
+  <title>Holiday Party 2013</title>
+  <link>/news-spatialdev/blog/2013/12/04/holiday-party-2013/</link>
+  <description>&lt;h2&gt;Holiday Party 2013&lt;/h2&gt;
+
+
+
+
+&lt;p&gt;In case you haven&#39;t heard... it&#39;s not too late...&lt;/p&gt;
+
+</description>
+  <pubDate>2013-12-04T00:00:00-08:00</pubDate>
+  <dc:creator>SITE NAME</dc:creator>
+  <guid isPermaLink="true">/news-spatialdev/blog/2013/12/04/holiday-party-2013/</guid>
+</item>
+<item>
+  <title>GIS Day</title>
+  <link>/news-spatialdev/blog/2013/11/20/gis-day/</link>
+  <description>&lt;h2&gt;GIS Day 2013&lt;/h2&gt;
+
+
+
+
+&lt;p&gt;Happy GIS Day! Here is SpatialDev&#39;s Mike Leech showing off an invasive species app we&#39;ve been working on. His presentation was part of the Washington State Joint Agency GIS Day - 2013 being held in Olympia.&lt;/p&gt;
+
+</description>
+  <pubDate>2013-11-20T00:00:00-08:00</pubDate>
+  <dc:creator>SITE NAME</dc:creator>
+  <guid isPermaLink="true">/news-spatialdev/blog/2013/11/20/gis-day/</guid>
+</item>
+<item>
+  <title>FSP Nigeria Wired Magazine</title>
+  <link>/news-spatialdev/blog/2013/11/15/fsp-nigeria-wired-magazine/</link>
+  <description>&lt;h2&gt;FSP Nigeria Wired Magazine&lt;/h2&gt;
+
+
+
+
+&lt;p&gt;Some of the great work our team is doing to support the Bill and Melinda Gates Foundation appears this month in Wired Magazine.&lt;/p&gt;
+
+</description>
+  <pubDate>2013-11-15T00:00:00-08:00</pubDate>
+  <dc:creator>SITE NAME</dc:creator>
+  <guid isPermaLink="true">/news-spatialdev/blog/2013/11/15/fsp-nigeria-wired-magazine/</guid>
+</item>
+<item>
+  <title>Hello Again</title>
+  <link>/news-spatialdev/blog/2013/06/16/hello-again/</link>
+  <description>&lt;p&gt;Proin at eros non eros adipiscing mollis. Donec semper turpis sed diam. Sed consequat ligula nec tortor. Integer eget sem. Ut vitae enim eu est vehicula gravida. Morbi ipsum ipsum, porta nec, tempor id, auctor vitae, purus. Pellentesque neque. Nulla luctus erat vitae libero. Integer nec enim. Phasellus aliquam enim et tortor. Quisque aliquet, quam elementum condimentum feugiat, tellus odio consectetuer wisi, vel nonummy sem neque in elit. Curabitur eleifend wisi iaculis ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non velit non ligula laoreet ultrices. Praesent ultricies facilisis nisl. Vivamus luctus elit sit amet mi. Phasellus pellentesque, erat eget elementum volutpat, dolor nisl porta neque, vitae sodales ipsum nibh in ligula. Maecenas mattis pulvinar diam. Curabitur sed leo.&lt;/p&gt;
+
+</description>
+  <pubDate>2013-06-16T00:00:00-07:00</pubDate>
+  <dc:creator>SITE NAME</dc:creator>
+  <guid isPermaLink="true">/news-spatialdev/blog/2013/06/16/hello-again/</guid>
+</item>
+<item>
+  <title>Another Post</title>
+  <link>/news-spatialdev/blog/2013/06/10/another-post/</link>
+  <description>&lt;p&gt;Proin at eros non eros adipiscing mollis. Donec semper turpis sed diam. Sed consequat ligula nec tortor. Integer eget sem. Ut vitae enim eu est vehicula gravida. Morbi ipsum ipsum, porta nec, tempor id, auctor vitae, purus. Pellentesque neque. Nulla luctus erat vitae libero. Integer nec enim. Phasellus aliquam enim et tortor. Quisque aliquet, quam elementum condimentum feugiat, tellus odio consectetuer wisi, vel nonummy sem neque in elit. Curabitur eleifend wisi iaculis ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non velit non ligula laoreet ultrices. Praesent ultricies facilisis nisl. Vivamus luctus elit sit amet mi. Phasellus pellentesque, erat eget elementum volutpat, dolor nisl porta neque, vitae sodales ipsum nibh in ligula. Maecenas mattis pulvinar diam. Curabitur sed leo.&lt;/p&gt;
+
+</description>
+  <pubDate>2013-06-10T00:00:00-07:00</pubDate>
+  <dc:creator>SITE NAME</dc:creator>
+  <guid isPermaLink="true">/news-spatialdev/blog/2013/06/10/another-post/</guid>
+</item>
+<item>
+  <title>Hello World</title>
+  <link>/news-spatialdev/blog/2013/05/09/hello-world/</link>
+  <description>&lt;p&gt;Proin at eros non eros adipiscing mollis. Donec semper turpis sed diam. Sed consequat ligula nec tortor. Integer eget sem. Ut vitae enim eu est vehicula gravida. Morbi ipsum ipsum, porta nec, tempor id, auctor vitae, purus. Pellentesque neque. Nulla luctus erat vitae libero. Integer nec enim. Phasellus aliquam enim et tortor. Quisque aliquet, quam elementum condimentum feugiat, tellus odio consectetuer wisi, vel nonummy sem neque in elit. Curabitur eleifend wisi iaculis ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non velit non ligula laoreet ultrices. Praesent ultricies facilisis nisl. Vivamus luctus elit sit amet mi. Phasellus pellentesque, erat eget elementum volutpat, dolor nisl porta neque, vitae sodales ipsum nibh in ligula. Maecenas mattis pulvinar diam. Curabitur sed leo.&lt;/p&gt;
+
+</description>
+  <pubDate>2013-05-09T00:00:00-07:00</pubDate>
+  <dc:creator>SITE NAME</dc:creator>
+  <guid isPermaLink="true">/news-spatialdev/blog/2013/05/09/hello-world/</guid>
+</item>
+
+</channel>
+</rss>
