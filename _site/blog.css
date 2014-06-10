@@ -2,10 +2,15 @@
   display:none;
 }
 
+.splash {
+  float: left;
+  }
+
 .splash img {
   background:#f0f0f0;
   display:block;
-  max-width:100%;
+  width: 100px;
+  height: 100px;
 /*  max-height: 260px;*/
   cursor: pointer;
   }
@@ -36,6 +41,12 @@
   background-color:#759da7;
   text-align: center;
   line-height: 22px;
+}
+
+.textContainer{
+  float:left;
+  margin-left:20px;
+  width: 80%;
 }
 
 .summeryText {
@@ -82,16 +93,16 @@
 
 .logoWrapper{
   width:100%;
-  background-color:#f8f8f8;
+  /*background-color:#f8f8f8;*/
 }
 
 .listing .item {
   display:block;
   padding:2px 0;
 /*  border-top:1px solid #d4d7d9;*/
-  font-size: 30px;
-  font-family:Futura Condensed Bold;
-  font-weight: 600;
+  font-size: 18px;
+  /*font-family:Futura Condensed Bold;
+  font-weight: 600;*/
   }
 
 .listing .month {
