@@ -401,8 +401,8 @@ h2,
 .h2,
 h3,
 .h3 {
-  margin-top: 10px;
-  margin-bottom: 2px;
+  margin-top: 0px;
+  margin-bottom: 10px;
 }
 h1 small,
 .h1 small,
@@ -447,23 +447,23 @@ h1,
 }
 h2,
 .h2 {
-  font-size: 30px;
+  font-size: 18px;
 }
 h3,
 .h3 {
-  font-size: 24px;
+  font-size: 16px;
 }
 h4,
 .h4 {
-  font-size: 18px;
+  font-size: 14px;
 }
 h5,
 .h5 {
-  font-size: 14px;
+  font-size: 12px;
 }
 h6,
 .h6 {
-  font-size: 12px;
+  font-size: 10px;
 }
 p {
   margin: 0 0 10px;
@@ -4013,6 +4013,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     color: #ccc;
     background-color: transparent;
   }
+
 }
 .navbar-default .navbar-link {
   color: #777;
