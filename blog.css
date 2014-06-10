@@ -9,10 +9,10 @@
 .splash img {
   background:#f0f0f0;
   display:block;
-  width: 100px;
+  width: 120px;
   height: 100px;
 /*  max-height: 260px;*/
-  cursor: pointer;
+  /*cursor: pointer;*/
   }
 
 .splashLanding img {
@@ -112,7 +112,7 @@
 }
 
 .month{
-  cursor: pointer;
+  /*cursor: pointer;*/
 }
 
 .active{
@@ -248,4 +248,9 @@ input[type=text], textarea {
 
 .dateText{
   padding: 5px;
+}
+
+.blogContainer{
+  width: 940px;
+  margin: auto;
 }

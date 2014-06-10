@@ -3,30 +3,15 @@ layout: default
 section: blog
 ---
 
-<div class='listing col7 margin15 pad4h'>
-  {% for item in site.categories.blog limit:1000 %}
+<div class='blogContainer'>
+  <div class="blog-header">
+          <h1 class="blog-title">Blog</h1>
+        </div>
+  {% for item in site.categories.blog limit:100 %}
     {% capture date %}{{ item.date | date: '%B %Y' }}{% endcapture %}
     {% capture ndate %}{{ item.next.date | date: '%B %Y' }}{% endcapture %}
 
-    <!-- {% if date != ndate %}
-      <h3 id="{{item.date | date: '%B %Y'}}" class='month'></h3>
-    {% endif %} -->
     <div id="{{item.title}}" class="article clearfix">
-        <!-- <div class='date'>
-          <span class="dateText">{{item.date | date:"%B %d"}}</span>
-        </div> -->
-        <!-- <span class="byContainer">by</span>
-        {% if item.members %}
-          {% for member in site.data.members %}
-            {% if member.name == {{item.members}} %}
-            <img class="memberThumbnail" width="30px" height="30px" src='{{site.baseurl}}/img/members/{{member.pic}}' alt='' />
-            {% endif %}
-          {% endfor %}
-        <strong>{{item.members}}</strong>
-        {% else %}
-          <img class="memberThumbnail" width="30px" height="30px" src='{{site.baseurl}}/img/gear.png' alt='' />
-          <strong>SpatilDev</strong>
-        {% endif %} -->
         
 
           {% if item.youtube_url %}
@@ -57,12 +42,6 @@ section: blog
         <div class="summeryText" >{{ item.content }}</div>
         {% endif %}
         </div>
-
-        <!-- {% if item.tags != empty %}
-          {% for item in item.tags %}
-          <a class="label label-info" href="{{site.baseurl}}/tags/{{ item }}"><i class="fa fa-tags"></i>  {{ item }}</span></a>
-          {% endfor %}
-        {% endif %} -->
       </div>
       {% endfor %}
 
